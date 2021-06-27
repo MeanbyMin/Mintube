@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mintube/static/css/main.c7c23b93.chunk.css",
+    "main.js": "/Mintube/static/js/main.b286d099.chunk.js",
+    "main.js.map": "/Mintube/static/js/main.b286d099.chunk.js.map",
+    "runtime-main.js": "/Mintube/static/js/runtime-main.d0225f14.js",
+    "runtime-main.js.map": "/Mintube/static/js/runtime-main.d0225f14.js.map",
+    "static/js/2.d9545544.chunk.js": "/Mintube/static/js/2.d9545544.chunk.js",
+    "static/js/2.d9545544.chunk.js.map": "/Mintube/static/js/2.d9545544.chunk.js.map",
+    "index.html": "/Mintube/index.html",
+    "static/css/main.c7c23b93.chunk.css.map": "/Mintube/static/css/main.c7c23b93.chunk.css.map",
+    "static/js/2.d9545544.chunk.js.LICENSE.txt": "/Mintube/static/js/2.d9545544.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0225f14.js",
+    "static/js/2.d9545544.chunk.js",
+    "static/css/main.c7c23b93.chunk.css",
+    "static/js/main.b286d099.chunk.js"
+  ]
+}
